@@ -5,12 +5,12 @@ Lenguaje: Java
 
 En el presente proyecto, se realizo un reproductor multimedia con la intencion de utilizar correctamente una Cola Circular de tal forma de poner a prueba las Estructuras de datos.
 
-![Inicial](a1.png)
+![Inicial](a1.PNG)
 
 ## Reproductor
 
-![Reproductor](a2.png)
+![Reproductor](a2.PNG)
 
 ## Carga de Archivos
 
-![Archivo agregado](a3.png)
+![Archivo agregado](a3.PNG)
